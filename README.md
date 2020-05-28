@@ -1,2 +1,1 @@
-# Design-Components
-W3D4 Group Challenge
+[Design-Components](https://deni-khalikov.github.io/Design-Components/)
